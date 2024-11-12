@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "library","player_1_udp", "player_2_udp"
+]
+
+[workspace.dependencies]
+
+
